@@ -1,16 +1,17 @@
-                                                   #Hi there 👋, I'm Joao de Queiroz
+<h1 align="center">Hi dear 👋, I'm Joao de Queiroz</h1>
+<h3 align="center">Developer trying to learning more about full stack world</h3>
 
-<!--
-**joaogqueiroz/joaogqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+  I'm Junior Software Engineer, passionate about technology and always looking to learn more.
+</h4
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<hr>
+
+
+- 🔭 I'm currently looking for an opportunity
+- 🌱 I’m  learning Full Stack development focusing in Python for de back-end side
+- 💬 Ask me about: **HTML, CSS, JavaScript, Python, SOAP, HTTP and Intersystems Ensemble ESB**
+- 📫 How to reach me: **joaogilberto350@Hotmail.com**
+- 💼 [LinkedIn](https://github.com/joaogqueiroz)
