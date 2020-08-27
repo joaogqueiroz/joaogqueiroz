@@ -9,8 +9,6 @@
 <br>
 <hr>
 
-
-- 🔭 I'm currently looking for an opportunity
 - 🌱 I’m  learning Full Stack development focusing in Python for de back-end side
 - 💬 Ask me about: **HTML, CSS, JavaScript, Python, SOAP, HTTP and Intersystems Ensemble ESB**
 - 📫 How to reach me: **joaogilberto350@Hotmail.com**
