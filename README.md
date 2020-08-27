@@ -1,8 +1,7 @@
 <h1 align="center">Hi dear 👋, I'm Joao de Queiroz</h1>
-<h3 align="center">Developer trying to learning more about full stack world</h3>
 
 <h4 align="center">
-  I'm Junior Software Engineer, passionate about technology and always looking to learn more.
+  I'm Junior Software Engineer, trying to learning more about full stack world.
 </h4
 
 
