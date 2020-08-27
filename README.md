@@ -12,4 +12,4 @@
 - 🌱 I’m  learning Full Stack development focusing in Python for de back-end side
 - 💬 Ask me about: **HTML, CSS, JavaScript, Python, Webserivecs(SOAP/REST) and Intersystems Ensemble ESB**
 - 📫 How to reach me: **joaogilberto350@Hotmail.com**
-- 💼 [LinkedIn](https://github.com/joaogqueiroz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/)
