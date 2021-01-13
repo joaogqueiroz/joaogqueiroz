@@ -11,3 +11,12 @@
 - 🌱 I’m  learning Full Stack development focusing in Python for de back-end side
 - 💬 Ask me about: **Python, HTML, CSS, Webservices(SOAP/REST) and Intersystems Ensemble ESB**
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/)
+
+<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaogqueiroz&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogqueiroz&theme=dark)
