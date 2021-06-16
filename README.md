@@ -8,8 +8,8 @@
 <br>
 <hr>
 
-- 🌱 I’m  learning Full Stack development focusing in Python for de back-end side
-- 💬 Ask me about: **Python, HTML, CSS, Webservices(SOAP/REST) and Intersystems Ensemble ESB**
+- 🌱 I’m  learning Full Stack development focusing in Python and .NET for de back-end side
+- 💬 Ask me about: **Python, .NET, HTML, CSS, Webservices(SOAP/REST) and Intersystems Ensemble ESB**
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/)
 
 <br>
