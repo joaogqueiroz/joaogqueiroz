@@ -9,7 +9,7 @@
 <hr>
 
 - 🌱 I’m  learning Full Stack development focusing in Python and .NET for de back-end side
-- 💬 Ask me about: **Python, .NET, Webservices(SOAP/REST) and Intersystems Ensemble ESB**
+- 💬 Ask me about: **C#/.NET, Python, Webservices(SOAP/REST) and Intersystems Ensemble ESB**
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/)
 
 <br>
