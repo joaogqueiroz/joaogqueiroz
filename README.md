@@ -8,7 +8,7 @@
 <br>
 <hr>
 
-- 🌱 I’m  learning Full Stack development focusing in Python and .NET for de back-end side
+- 🌱 I’m  learning Full Stack development focusing in .NET.
 - 💬 Ask me about: **C#/.NET, Python, Webservices(SOAP/REST)**
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/)
 
