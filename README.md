@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear 👋, I'm Joao de Queiroz</h1>
+<h1 align="center">Hi guys 👋, I'm Joao de Queiroz</h1>
 
 <h4 align="center">
   I'm Software Engineer, trying to learning more about full stack world.
@@ -9,8 +9,8 @@
 <hr>
 
 - 🌱 I’m  learning Full Stack development focusing in .NET.
-- 💬 Ask me about: **C#/.NET, Python, Webservices(SOAP/REST)**
-- 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/)
+- 💬 Ask me about: **C#/.NET, Dapper, Sql server,Python, Webservices(SOAP/REST)**
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/?locale=en_US)
 
 <br>
 
