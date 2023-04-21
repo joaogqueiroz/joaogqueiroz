@@ -8,7 +8,6 @@
 <br>
 <hr>
 
-- 🌱 I’m  learning Full Stack development focusing in .NET.
 - 💬 Ask me about: **C#/.NET, Dapper, Sql server, Webservices(SOAP/REST)**
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/?locale=en_US)
 
