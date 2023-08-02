@@ -1,7 +1,7 @@
 <h1 align="center">Hi guys 👋, I'm Joao de Queiroz</h1>
 
 <h4 align="center">
-  I'm .Net Software Engineer, trying to increase my full stack skills.
+  I'm Full Stack .Net Software Engineer.
 </h4>
 
 <p align="left">
@@ -29,7 +29,6 @@ The technologies that I have experience are:
 - AWS (EC2, ECR, Route 53, S3)
 - xUnit
 </p>
-  
 
 <br>
 <hr>
