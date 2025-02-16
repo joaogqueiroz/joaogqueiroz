@@ -33,9 +33,6 @@ I'm proficient in a variety of technologies, including:
 - GitHub
 - AWS (EC2, ECR, Route 53, S3)
 - xUnit
-
-📈 Let's Connect:
-I'm always open to new opportunities and connections. Feel free to check out my GitHub for more details on my projects: https://github.com/joaogqueiroz
 </p>
 
 <br>
