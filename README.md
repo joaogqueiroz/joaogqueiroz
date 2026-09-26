@@ -1,50 +1,92 @@
-<h1 align="center">Hi guys 👋, I'm Joao de Queiroz</h1>
+<h1 align="center">Hi 👋, I'm João de Queiroz</h1>
 
-<h4 align="center">
-  I'm Full Stack .Net Software Engineer.
-</h4>
+<h3 align="center">
+Senior Backend Engineer | C#/.NET | Distributed Systems & Cloud
+</h3>
 
-<p align="left">
-👋 Hi there! I'm João G. Queiroz, a passionate software developer from Brazil, currently living in Mexico City. With 6 years of experience and a Bachelor's degree in Computer Science, I've been dedicated to creating impactful solutions across various fields such as logistics, taxes, and financials. My goal is to deliver efficient and effective software products that meet the needs of users and businesses alike.
-
-💼 Professional Experience:
-Over the past few years, I've led the development of complex products, tackling challenges head-on and consistently achieving successful outcomes. My experience spans a wide range of technologies, allowing me to adapt and excel in diverse project environments.
-
-💡 Soft Skills:
-I pride myself on being a:
-- Good communicator: Clear and concise communication is key to successful teamwork and project delivery.
-- Collaborative team member: I thrive in collaborative settings, working seamlessly with colleagues to achieve common goals.
-- Problem-solver: I enjoy tackling complex problems and finding innovative solutions.
-
-🔧 Technical Skills:
-I'm proficient in a variety of technologies, including:
-- .Net Core (Dotnet Core)
-- C# (Csharp)
-- TypeScript
-- Angular
-- Entity Framework (EF Core)
-- Dapper
-- MySQL
-- SQL Server
-- Oracle DB
-- Docker
-- ABP Framework
-- Azure DevOps
-- GitHub
-- AWS (EC2, ECR, Route 53, S3)
-- xUnit
+<p align="center">
+<a href="https://www.linkedin.com/in/joaogqueiroz/">LinkedIn</a>
 </p>
 
+---
+
+### About Me
+
+I'm a Senior Software Engineer from Brazil, currently based in Mexico City, with 6+ years of professional experience building and maintaining backend systems and scalable software products.
+
+My main focus is backend development with **C# and .NET**, with experience designing and developing **REST APIs, microservices, distributed systems, database-driven applications, and cloud-based solutions**.
+
+I've worked across different domains, including logistics, financial services, mobility, and SaaS platforms, collaborating with cross-functional teams to deliver reliable and maintainable software.
+
+I also have full-stack experience with **Angular and TypeScript**, allowing me to work across the application when needed while keeping backend engineering as my primary focus.
+
+### What I Work With
+
+**Backend**
+
+* C#
+* .NET / .NET Core
+* REST APIs
+* Microservices
+* Entity Framework Core
+* Dapper
+* SOAP / Web Services
+* xUnit / TDD
+* DDD
+* SOLID
+* Clean Architecture
+
+**Databases**
+
+* MySQL
+* SQL Server
+* Oracle
+
+**Cloud & Infrastructure**
+
+* AWS (EC2, RDS, S3, SQS, Route 53, CloudFormation)
+* Docker
+* Azure DevOps
+* CI/CD
+
+**Frontend**
+
+* Angular
+* TypeScript
+
+**Tools & Practices**
+
+* Git
+* GitHub
+* GitLab
+* Agile / Scrum
+* Code Review
+* Debugging & Root Cause Analysis
+
+### Professional Experience
+
+* **Mobility & Road Assistance:** backend services supporting ecosystems with 300,000+ tracked vehicles, 7,000+ accredited providers, and 50,000+ monthly service requests.
+* **SaaS & Sales Prediction:** development of cloud-based applications and backend services running on AWS.
+* **Port & Terminal Operations:** software for cargo traceability and operational workflows.
+* **Financial Services:** backend development for financial and capitalization products.
+
+### Currently Focused On
+
+* Backend architecture
+* Distributed systems
+* Microservices
+* Cloud-native applications
+* Software architecture
+* Domain-Driven Design
+* Performance and scalability
+* Clean and maintainable code
+
+### Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/)
+
 <br>
-<hr>
 
-- 💬 Ask me about: **C#/.NET, Dapper, Sql server, Webservices(SOAP/REST)**
-- 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/?locale=en_US)
-
-<br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaogqueiroz&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=joaogqueiroz&theme=dark&layout=compact" alt="João's GitHub Stats" />
+</p>
