@@ -5,88 +5,130 @@ Senior Backend Engineer | C#/.NET | Distributed Systems & Cloud
 </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/joaogqueiroz/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/joaogqueiroz/">LinkedIn</a>
 </p>
 
 ---
 
-### About Me
+## About Me
 
-I'm a Senior Software Engineer from Brazil, with 6+ years of professional experience building and maintaining backend systems and scalable software products.
+I'm a Senior Software Engineer with 7+ years of experience building backend systems and software products across logistics, mobility, financial services, and SaaS.
 
-My main focus is backend development with **C# and .NET**, with experience designing and developing **REST APIs, microservices, distributed systems, database-driven applications, and cloud-based solutions**.
-
-I've worked across different domains, including logistics, financial services, mobility, and SaaS platforms, collaborating with cross-functional teams to deliver reliable and maintainable software.
+My primary focus is **C# and .NET**, with hands-on experience building **REST APIs, microservices, distributed systems, database-driven applications, and cloud-based solutions**.
 
 I also have full-stack experience with **Angular and TypeScript**, allowing me to work across the application when needed while keeping backend engineering as my primary focus.
 
-### What I Work With
+I enjoy working on complex systems, solving technical problems, and building software that is reliable, maintainable, and scalable.
 
-**Backend**
+## Engineering at Scale
+
+* 🚗 300,000+ tracked vehicles
+* 🤝 7,000+ accredited service providers
+* 📊 50,000+ monthly service requests
+* 🧩 Backend services and microservices built with C#/.NET
+* ☁️ Cloud-based solutions using AWS and Azure
+
+## Tech Stack
+
+### Backend
 
 * C#
 * .NET / .NET Core
+* ASP.NET Core
 * REST APIs
 * Microservices
 * Entity Framework Core
 * Dapper
 * SOAP / Web Services
-* xUnit / TDD
-* DDD
-* SOLID
+* CQRS
+* MediatR
+* Domain-Driven Design
 * Clean Architecture
+* SOLID
 
-**Databases**
+### Databases
 
 * MySQL
 * SQL Server
 * Oracle
 
-**Cloud & Infrastructure**
+### Cloud & Infrastructure
 
-* AWS (EC2, RDS, S3, SQS, Route 53, CloudFormation)
+* AWS
+* EC2
+* RDS
+* S3
+* SQS
+* Route 53
+* CloudFormation
 * Docker
-* Azure DevOps
 * CI/CD
+* Azure DevOps
 
-**Frontend**
+### Messaging & Integration
+
+* RabbitMQ
+* Message-based communication
+* REST
+* SOAP
+
+### Frontend
 
 * Angular
 * TypeScript
 
-**Tools & Practices**
+### Testing
 
-* Git
-* GitHub
-* GitLab
-* Agile / Scrum
-* Code Review
-* Debugging & Root Cause Analysis
+* xUnit
+* Unit Testing
+* TDD
 
-### Professional Experience
+## Featured Projects
 
-* **Mobility & Road Assistance:** backend services supporting ecosystems with 300,000+ tracked vehicles, 7,000+ accredited providers, and 50,000+ monthly service requests.
-* **SaaS & Sales Prediction:** development of cloud-based applications and backend services running on AWS.
-* **Port & Terminal Operations:** software for cargo traceability and operational workflows.
-* **Financial Services:** backend development for financial and capitalization products.
+### 🛒 GeekShopping
 
-### Currently Focused On
+A microservices-based e-commerce platform built with .NET and C#.
 
-* Backend architecture
-* Distributed systems
-* Microservices
-* Cloud-native applications
-* Software architecture
+The project includes multiple backend services covering products, orders, payments, cart, coupons, email, identity, and payment processing, together with an API Gateway and message bus.
+
+**Focus:** Microservices, API Gateway, messaging, distributed architecture, authentication, payment processing, and Docker.
+
+[View repository](https://github.com/joaogqueiroz/GeekShopping)
+
+---
+
+### 💻 DevFreela
+
+A backend application built with ASP.NET Core following a layered architecture and CQRS principles.
+
+The project includes application, domain, infrastructure, API, and unit testing layers, with RabbitMQ used for asynchronous communication.
+
+**Focus:** .NET, CQRS, MediatR, RabbitMQ, SQL Server, Docker, and automated testing.
+
+[View repository](https://github.com/joaogqueiroz/DevFreela)
+
+---
+
+### 💳 DevFreela Payments
+
+A dedicated payment microservice designed to work alongside the DevFreela monolith.
+
+The project explores service decomposition and asynchronous communication using RabbitMQ.
+
+**Focus:** Microservices, RabbitMQ, asynchronous communication, and .NET.
+
+[View repository](https://github.com/joaogqueiroz/DevFreela.Payments)
+
+## Currently Exploring
+
+* Distributed Systems
+* Software Architecture
 * Domain-Driven Design
+* System Design
+* Cloud-native applications
+* Microservices
 * Performance and scalability
-* Clean and maintainable code
 
-### Let's Connect
+## Let's Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/)
-
-<br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaogqueiroz&theme=dark&layout=compact" alt="João's GitHub Stats" />
-</p>
