@@ -12,7 +12,7 @@ Senior Backend Engineer | C#/.NET | Distributed Systems & Cloud
 
 ### About Me
 
-I'm a Senior Software Engineer from Brazil, currently based in Mexico City, with 6+ years of professional experience building and maintaining backend systems and scalable software products.
+I'm a Senior Software Engineer from Brazil, with 6+ years of professional experience building and maintaining backend systems and scalable software products.
 
 My main focus is backend development with **C# and .NET**, with experience designing and developing **REST APIs, microservices, distributed systems, database-driven applications, and cloud-based solutions**.
 
