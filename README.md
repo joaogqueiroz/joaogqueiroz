@@ -120,6 +120,30 @@ The project explores service decomposition and asynchronous communication using 
 
 [View repository](https://github.com/joaogqueiroz/DevFreela.Payments)
 
+---
+
+### 🎬 MyMovieScore
+
+A REST API where users sign up, save movies to a list and rate them later, with movie data from the OMDb API.
+
+The project follows clean architecture with CQRS and runs with Docker Compose.
+
+**Focus:** .NET, clean architecture, CQRS, MediatR, EF Core, Docker, and Swagger.
+
+[View repository](https://github.com/joaogqueiroz/MyMovieScore)
+
+---
+
+### ✅ TaskControl
+
+A full-stack task manager built with ASP.NET Core MVC.
+
+Users manage their tasks, see their progress in charts, and export PDF reports.
+
+**Focus:** ASP.NET Core MVC, Dapper, SQL Server, authentication, Highcharts, and PDF generation.
+
+[View repository](https://github.com/joaogqueiroz/TaskControl)
+
 ## Currently Exploring
 
 * Distributed Systems
