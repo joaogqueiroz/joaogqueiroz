@@ -5,6 +5,7 @@ Senior Backend Engineer | C#/.NET | Distributed Systems & Cloud
 </h3>
 
 <p align="center">
+  <a href="https://joaogqueiroz.github.io">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/joaogqueiroz/">LinkedIn</a>
 </p>
 
@@ -131,4 +132,5 @@ The project explores service decomposition and asynchronous communication using 
 
 ## Let's Connect
 
+* 🌐 [Portfolio](https://joaogqueiroz.github.io)
 * 💼 [LinkedIn](https://www.linkedin.com/in/joaogqueiroz/)
