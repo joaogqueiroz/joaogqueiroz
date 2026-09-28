@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João de Queiroz</h1>
+<h1 align="center">Hi 👋, I'm Joao de Queiroz</h1>
 
 <h3 align="center">
 Senior Backend Engineer | C#/.NET | Distributed Systems & Cloud
