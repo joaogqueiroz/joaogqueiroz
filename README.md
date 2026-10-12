@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joao de Queiroz</h1>
 
 <h3 align="center">
-Senior Backend Engineer | C#/.NET | Distributed Systems & Cloud
+Senior Software Engineer | C# | .NET | Microservices | AWS
 </h3>
 
 <p align="center">
@@ -27,7 +27,7 @@ I enjoy working on complex systems, solving technical problems, and building sof
 * 🤝 7,000+ accredited service providers
 * 📊 50,000+ monthly service requests
 * 🧩 Backend services and microservices built with C#/.NET
-* ☁️ Cloud-based solutions using AWS and Azure
+* ☁️ Cloud-based solutions using AWS
 
 ## Tech Stack
 
